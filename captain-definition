@@ -1,7 +1,4 @@
 {
   "schemaVersion": 2,
   "templateId": "php/8.1.8".
-  "dockerfileLines": [
-                        "COPY ./ /var/www/html/"
-                     ]
  }
