@@ -2,6 +2,6 @@
   "name": "mi_app",
   "version": "1.0.0",
   "scripts": {
-    "start": "node ./index.html"
+    "start": "node ./index.js"
   }
 }
